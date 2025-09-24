@@ -1,5 +1,6 @@
 // controllers/attendance.controller.js
 import Attendance from "../models/Attendance.js";
+
 import Labor from "../models/Labor.js";
 import Salary from "../models/Salary.js";
 

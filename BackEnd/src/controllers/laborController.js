@@ -1,4 +1,4 @@
-import Labor from "../models/labor.js";
+import Labor from "../models/Labor.js";
 
 // Add labor (either type)
 export const addLabor = async (req, res) => {
