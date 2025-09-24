@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-  baseURL: 'http://https://plant-nursing-main-update-backend.onrender.com/api',
+  baseURL: 'https://plant-nursing-main-update-backend.onrender.com/api',
   // baseURL: 'http://localhost:5000/api',
   withCredentials: true, // For cookies, not needed for localStorage
   headers: {
