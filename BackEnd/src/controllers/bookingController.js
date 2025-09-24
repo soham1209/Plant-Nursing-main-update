@@ -6,7 +6,7 @@ import TopCrop from "../models/TopCrop.js";
 import Income from "../models/Income.js";
 import mongoose from "mongoose";
 import CropGroup from "../models/CropGroup.js";
-import { ApiResponse } from "../utils/ApiResponse.js";
+import { ApiResponse } from "../utils/apiResponse.js";
 import Schedule from "../models/Schedule.js";
 
 /**

@@ -1,6 +1,6 @@
 import Farmer from "../models/Farmer.js";
 import Booking from "../models/Booking.js";
-import { ApiResponse } from "../utils/ApiResponse.js";
+import { ApiResponse } from "../utils/apiResponse.js";
 
 // Create a new farmer
 export const createFarmer = async (req, res) => {
